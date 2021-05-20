@@ -82,4 +82,5 @@ Install react, redux, firebase, material-ui packages
 ////
 yarn add @material-ui/core @material-ui/icons @material-ui/styles connected-react-router firebase history react-redux react-router redux redux-actions redux-logger redux-thunk reselect
 
-ストアは本当に参照できるかチェックしてから渡そう
+・ストアは本当に参照できるかチェックしてから渡そう
+・useDispatchm繋がってるか適当なボタンに入れて確認
